@@ -1,0 +1,27 @@
+# Core web app
+streamlit==1.39.0
+
+# Data handling
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Finance data
+yfinance==0.2.50
+
+# Machine learning / Deep learning
+scikit-learn==1.5.2
+tensorflow==2.17.0
+
+# Sentiment analysis
+textblob==0.17.1
+newsapi-python==0.2.7
+
+# Utility
+requests==2.32.3
+
+# Optional but useful
+protobuf==5.28.3
