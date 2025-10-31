@@ -5,7 +5,10 @@ matplotlib==3.9.2
 seaborn==0.13.2
 yfinance==0.2.50
 scikit-learn==1.5.2
-tensorflow-cpu==2.15.0
+
+# TensorFlow that works with Python 3.13
+tensorflow==2.20.0rc0
+
 textblob==0.17.1
 newsapi-python==0.2.7
 requests==2.32.3
